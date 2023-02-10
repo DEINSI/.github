@@ -4,7 +4,7 @@
 
 ## Comenzando
 
-Para poder comenzar a trabajar con nosotros es necesario contactarte con [joshua](https://github.com/JoshuaDeinsi), [Obed](https://github.com/SupaStar) o [Emmanuel](https://github.com/Byteshot).
+Para poder comenzar a trabajar con nosotros es necesario contactarte con [Joshua](https://github.com/JoshuaDeinsi), [Obed](https://github.com/SupaStar) o [Emmanuel](https://github.com/Byteshot).
 
 ## Código de conducta
 
